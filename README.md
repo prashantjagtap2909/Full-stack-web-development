@@ -6,7 +6,7 @@ Update everything which I learns.
 
 
 ### [Week 1]()
-  - [✅ Day 1 :- Working of web & Core internet technology](https://github.com/prashantjagtap2909/Full-stack-web-development/blob/main/Days/Day%201.pdf)
+  - [✅ Day 1 :- Working of web & Core internet technology](https://github.com/prashantjagtap2909/Full-stack-web-development/blob/main/Days/Day%201)
   - [Day 2 :- ]()
   - [Day 3 ]() 
   - [Day 4 ]()
