@@ -13,4 +13,5 @@ Update everything which I learns.
  
 ### [Week 2 ]()
   - [✅ Day 1 :- Introduction to javascript](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%205)
+  - [✅ Day 2 :- Variable , operator and conditional statement in javascript](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%206)
   
