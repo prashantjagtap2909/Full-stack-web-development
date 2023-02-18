@@ -16,5 +16,6 @@ Update everything which I learns.
   - [✅ Day 2 :- Variable , operator and conditional statement in javascript](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%206)
   - [✅ Day 3 :- Loops in javascript](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%207)
   - [✅ Day 4 :- Function, object, string and error handling in javascript](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%208)
+  - [✅ Day 5 :- Functional programming and OOP ](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%209)
   
   
