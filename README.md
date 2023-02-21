@@ -19,5 +19,8 @@ Update everything which I learns.
   - [✅ Day 5 :- Functional programming and OOP ](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%209)
   - [✅ Day 6 :- Data structure and DOM in js ](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%210)
   - [✅ Day 7 :- Javascript testing frameworks and JEST ](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%211)
+
+### [Week 3]()
+  - [✅ Day 1 :- Introduction to version control](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%212)
   
   
