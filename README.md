@@ -22,5 +22,6 @@ Update everything which I learns.
 
 ### [Week 3]()
   - [✅ Day 1 :- Introduction to version control](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%212)
+  - [✅ Day 2 :- Types version control system](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%213)
   
   
