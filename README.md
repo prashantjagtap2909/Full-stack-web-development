@@ -24,5 +24,7 @@ Update everything which I learns.
   - [✅ Day 1 :- Introduction to version control](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%212)
   - [✅ Day 2 :- Types version control system](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%213)
   - [✅ Day 3 :- Command line](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%214)
+  - [✅ Day 4 :- Redirections](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%215)
+  - [✅ Day 5 :- Introduction to git and github](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%216)
   
   
