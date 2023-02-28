@@ -26,5 +26,6 @@ Update everything which I learns.
   - [✅ Day 3 :- Command line](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%214)
   - [✅ Day 4 :- Redirections](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%215)
   - [✅ Day 5 :- Introduction to git and github](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%216)
+  - [✅ Day 6 :- Git overflow , creating and clonning repository](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%217)
   
   
