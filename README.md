@@ -32,5 +32,6 @@ Update everything which I learns.
 ### [Week 4]()
   - [✅ Day 1 :- Git blame, git diff](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%218)
   - [✅ Day 2 :- Semantic tags in HTML](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%219)
+  - [✅ Day 3 :- Metadata](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%220)
   
   
