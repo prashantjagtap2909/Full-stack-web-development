@@ -39,5 +39,6 @@ Update everything which I learns.
 ### [Week 5]()
   - [✅ Day 1 :- Video and audio tags, iframe](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%222)
   - [✅ Day 2 :- Grid and flexbox](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%223)
+  - [✅ Day 3 :- Selectors](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%224)
   
   
