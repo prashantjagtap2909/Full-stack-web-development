@@ -40,5 +40,9 @@ Update everything which I learns.
   - [✅ Day 1 :- Video and audio tags, iframe](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%222)
   - [✅ Day 2 :- Grid and flexbox](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%223)
   - [✅ Day 3 :- Selectors](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%224)
+  - [✅ Day 4 :- Text effect and animation](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%225)
+  - [✅ Day 5 :- Common error and Developer tools](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%226)
+  
+  
   
   
