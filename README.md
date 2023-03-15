@@ -43,6 +43,9 @@ Update everything which I learns.
   - [✅ Day 4 :- Text effect and animation](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%225)
   - [✅ Day 5 :- Common error and Developer tools](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%226)
   
+ ### [Week 6]()
+  - [✅ Day 1 :- React introduction and components basics](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%228)
+  
   
   
   
