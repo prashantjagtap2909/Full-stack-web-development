@@ -45,6 +45,7 @@ Update everything which I learns.
   
  ### [Week 6]()
   - [✅ Day 1 :- React introduction and components basics](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%228)
+  - [✅ Day 2 :- Creating component & folder structure](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%229)
   
   
   
