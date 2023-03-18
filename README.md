@@ -47,6 +47,7 @@ Update everything which I learns.
   - [✅ Day 1 :- React introduction and components basics](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%228)
   - [✅ Day 2 :- Creating component & folder structure](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%229)
   - [✅ Day 3 :- React props and JSX](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%230)
+  - [✅ Day 4 :- React events](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%231)
   
   
   
