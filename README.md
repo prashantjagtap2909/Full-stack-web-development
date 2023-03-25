@@ -50,6 +50,10 @@ Update everything which I learns.
   - [✅ Day 4 :- React events](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%231)
   - [✅ Day 5 :- React Data flow and basics of Hooks and States](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%232)
   - [✅ Day 6 :- Managing States](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%233)
+  - [✅ Day 7 :- Navigation](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%234)
+  
+  ### [Week 7]()
+  - [✅ Day 1 :- Rendering list](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%236)
   
   
   
