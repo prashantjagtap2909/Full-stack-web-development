@@ -54,6 +54,8 @@ Update everything which I learns.
   
   ### [Week 7]()
   - [✅ Day 1 :- Rendering list](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%236)
+  - [✅ Day 2 :- Controlled component](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%237)
+  - [✅ Day 3 :- Array destructuring and pure, impure function](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%238)
   
   
   
