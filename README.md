@@ -57,6 +57,8 @@ Update everything which I learns.
   - [✅ Day 2 :- Controlled component](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%237)
   - [✅ Day 3 :- Array destructuring and pure, impure function](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%238)
   - [✅ Day 4 :- Rules of hooks and Fetch function](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%239)
+  - [✅ Day 5 :- useReducer and useRef hook](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%240)
+  - [✅ Day 6 :- JSX, Rest API, element and spread operator](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%241)
   
   
   
