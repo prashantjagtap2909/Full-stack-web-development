@@ -63,6 +63,7 @@ Update everything which I learns.
   
     ### [Week 8]()
   - [✅ Day 1 :- React testing library](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%243)
+  - [✅ Day 2 :- Introduction to UI](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%244)
   
   
   
