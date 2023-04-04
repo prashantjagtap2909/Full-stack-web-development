@@ -64,8 +64,8 @@ Update everything which I learns.
     ### [Week 8]()
   - [✅ Day 1 :- React testing library](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%243)
   - [✅ Day 2 :- Introduction to UI](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%244)
-  - [✅ Day 3 :- Introduction to UI](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%245)
-  - [✅ Day 4 :- Introduction to UI](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%246)
+  - [✅ Day 3 :- Introduction to UX](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%245)
+  - [✅ Day 4 :- Design evaluation methods](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%246)
   
   
   
