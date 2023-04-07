@@ -66,6 +66,9 @@ Update everything which I learns.
   - [✅ Day 2 :- Introduction to UI](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%244)
   - [✅ Day 3 :- Introduction to UX](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%245)
   - [✅ Day 4 :- Design evaluation methods](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%246)
+  - [✅ Day 5 :- Components in UI design](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%247)
+  - [✅ Day 6 :- Grid system in design](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%248)
+  - [✅ Day 7 :- Usability testing](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%249)
   
   
   
