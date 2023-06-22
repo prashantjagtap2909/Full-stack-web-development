@@ -2,7 +2,8 @@
 
 
 My full stack web develpment journey.
-Update everything which I learns everyday....
+Update everything which I learns ....
+Handwritten notes 
 
 
 ### [Week 1]()
