@@ -45,7 +45,7 @@ Handwritten notes
   - [✅ Day 5 :- Common error and Developer tools](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%226)
   
  ### [Week 6]()
-  - [✅ Day 1 :- React introduction and components basics](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%228)
+  - [✅ Day 1 :- React introduction and components basics](https://github.com/prashantjagtap2909/Full-stack-web-development/blob/main/Days/Day%2028/Day%2028.pdf)
   - [✅ Day 2 :- Creating component & folder structure](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%229)
   - [✅ Day 3 :- React props and JSX](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%230)
   - [✅ Day 4 :- React events](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%231)
