@@ -31,7 +31,7 @@ Handwritten notes
   
   
 ### [Week 4]()
-  - [✅ Day 1 :- Git blame, git diff](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%218)
+  - [✅ Day 1 :- Git blame, git diff](https://github.com/prashantjagtap2909/Full-stack-web-development/blob/main/Days/Day%208/Day%208.pdf)
   - [✅ Day 2 :- Semantic tags in HTML](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%219)
   - [✅ Day 3 :- Metadata](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%220)
   - [✅ Day 4 :- Forms and validation](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%221)
