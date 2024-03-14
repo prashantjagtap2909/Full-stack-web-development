@@ -60,7 +60,7 @@ Handwritten notes
   - [✅ Day 4 :- Rules of hooks and Fetch function](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%2039/Day%2039.pdf)
   - [✅ Day 5 :- useReducer and useRef hook](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%2040/Day%2040.pdf)
   - [✅ Day 6 :- JSX, Rest API, element and spread operator](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%2041/Day%2041.pdf)
-  - [✅ Day 7 :- Higher order componenet](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%2042/Day%2042.pdf)
+  - [✅ Day 7 :- Higher order component](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%2042/Day%2042.pdf)
   
     ### [Week 8]()
   - [✅ Day 1 :- React testing library](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%2043/Day%2043.pdf)
@@ -75,6 +75,6 @@ Handwritten notes
   ### [Week 9]()
   - [✅ Day 1 :- Introduction to design elements ](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%2050/Day%2050.pdf)
   - [✅ Day 2 :- Basics of UI kit and Atomic design](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%2051/Day%2051.pdf)
-  - [✅ Day 3 :- React project](https://github.com/prashantjagtap2909/Little-Lemon )
+  - [✅ Day 3 :- React project - Little Lemon Restaurant](https://github.com/prashantjagtap2909/Little-Lemon )
   
   
