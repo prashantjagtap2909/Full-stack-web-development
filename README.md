@@ -82,4 +82,5 @@ Handwritten notes
 ## [Back-end development]()
   - [✅ Week 1 :- Server Building](https://github.com/prashantjagtap2909/Backend-web-development/tree/main/01-Server-Building)
   - [✅ Week 2 :- TO do app](https://github.com/prashantjagtap2909/Backend-web-development/tree/main/02-todo-app)
+  - [✅ Week 3 :- Blog app](https://github.com/prashantjagtap2909/Backend-web-development/tree/main/03%20-%20BlogApp)
   
