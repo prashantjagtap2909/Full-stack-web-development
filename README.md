@@ -66,7 +66,7 @@ Handwritten notes
     ### [Week 8]()
   - [✅ Day 1 :- React testing library](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%2043/Day%2043.pdf)
   - [✅ Day 2 :- Introduction to UI](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%2044/Day%2044.pdf)
-  - [✅ Day 3 :- Introduction to UX](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%2045/Day%2045/Day%2045.pdf)
+  - [✅ Day 3 :- Introduction to UX](https://github.com/prashantjagtap2909/Full-stack-web-development/blob/main/Days/Day%2045/Day%2045.pdf)
   - [✅ Day 4 :- Design evaluation methods](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%2046/Day%2046.pdf)
   - [✅ Day 5 :- Components in UI design](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%2047/Day%2047.pdf)
   - [✅ Day 6 :- Grid system in design](https://github.com/prashantjagtap2909/Full-stack-web-development/blob/main/Days/Day%2048/Day%2048.pdf)
