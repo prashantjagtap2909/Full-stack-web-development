@@ -19,7 +19,7 @@ Handwritten notes
   - [✅ Day 3 :- Loops in javascript](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%207/Day%207.pdf)
   - [✅ Day 4 :- Function, object, string and error handling in javascript](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%208/Day%208.pdf)
   - [✅ Day 5 :- Functional programming and OOP ](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%209/Day%209.pdf)
-  - [✅ Day 6 :- Data structure and DOM in js ](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%210/Day%210.pdf)
+  - [✅ Day 6 :- Data structure and DOM in js ](https://github.com/prashantjagtap2909/Full-stack-web-development/blob/main/Days/Day%2010/Day%2010.pdf)
   - [✅ Day 7 :- Javascript testing frameworks and JEST ](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%2011/Day%2011.pdf)
 
 ### [Week 3]()
