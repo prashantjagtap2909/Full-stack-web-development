@@ -56,7 +56,7 @@ Handwritten notes
   
   ### [Week 7]()
   - [✅ Day 1 :- Rendering list](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%2036/Day%2036.pdf)
-  - [✅ Day 2 :- Controlled component](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%2037/Day%2037,pdf)
+  - [✅ Day 2 :- Controlled component](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%2037/Day%2037.pdf)
   - [✅ Day 3 :- Array destructuring and pure, impure function](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%2038/Day%2038.pdf)
   - [✅ Day 4 :- Rules of hooks and Fetch function](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%2039/Day%2039.pdf)
   - [✅ Day 5 :- useReducer and useRef hook](https://github.com/prashantjagtap2909/Full-stack-web-development/tree/main/Days/Day%2040/Day%2040.pdf)
